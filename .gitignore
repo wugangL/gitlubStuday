@@ -1,3 +1,6 @@
+.idea/
+.idea/vcs.xml/
+.workspace.xml/
 # Compiled class file
 *.class
 
